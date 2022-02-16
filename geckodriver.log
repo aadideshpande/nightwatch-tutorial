@@ -1,0 +1,19 @@
+1644989336746	geckodriver	INFO	Listening on 127.0.0.1:4444
+1644989337228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aadid\\AppData\\Local\\Temp\\rust_mozprofileAfDRRf"
+1644989337858	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadid\\AppData\\Local\\Temp\\rust_mozprofileAfDRRf\\search.json.mozlz4", (void 0)))
+1644989342055	Marionette	INFO	Listening on port 53456
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ecosia.org"
+1644989351942	Marionette	INFO	Stopped listening on port 53456
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644989352747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\aadid\\AppData\\Local\\Temp\\rust_mozprofiley44LF9"
+1644989353325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aadid\\AppData\\Local\\Temp\\rust_mozprofiley44LF9\\search.json.mozlz4", (void 0)))
+1644989357841	Marionette	INFO	Listening on port 53560
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.ecosia.org"
+1644989366384	Marionette	INFO	Stopped listening on port 53560
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
